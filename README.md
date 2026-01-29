@@ -11,9 +11,7 @@ This project is useful for:
 🏫 Academic institutions
 
 🏢 Recruiters and analysts
-![Uploading INDIAN FRESHERS SALARY DASHBOARD.png…]()
-
-
+<img width="1317" height="452" alt="INDIAN FRESHERS SALARY DASHBOARD" src="https://github.com/user-attachments/assets/2db9fca0-5137-4291-99a8-8053e6f7b370" />
 
 🎯 Objectives
 
